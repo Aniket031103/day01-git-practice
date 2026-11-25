@@ -1,11 +1,2 @@
-# DevOps Capstone Project
-
-## Description
-CDAC PGCP-ITISS DevOps Project
-
-## Modules
-- Git and GitHub
-- Docker
-- Docker Compose
-- Jenkins
-- Kubernetes
+# DevOps Practice Project
+This project demonstrates Git, Docker, and Jenkins.
